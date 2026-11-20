@@ -1,5 +1,6 @@
 {
-  "name": "web",
+  "name": "tessera",
+  "description": "An operating system for your learning, body, mind and success - one append-only record in the browser.",
   "version": "0.1.0",
   "private": true,
   "scripts": {

@@ -1,7 +1,9 @@
 # Tessera
 
-Four dimensions — learning, mind, body, success — kept as one record in the
-browser. A tile a day, four shards to a tile, append only. One key opens it.
+**An operating system for your learning, body, mind and success.**
+
+Four dimensions, kept as one append-only record in the browser. A tile a day,
+four shards to a tile. One key opens it.
 
 ![The floor: one tile a day, four shards a tile](docs/screens/03-floor.png)
 
