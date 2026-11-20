@@ -349,10 +349,30 @@
   .os-floor__grid { grid-template-columns: repeat(12, minmax(0, 1fr)); }
 }
 
+/* Shape on a phone. The blanket 720px rules above were written for the floor's
+   shard strips: they drop .os-strip and the second .os-course__num, which on this
+   page is the lane, the percentage and the minutes figure — the whole reading.
+   Here they come back, restacked onto a second line instead of dropped. Every rule
+   is scoped to .os-shape-lane / .os-shape-total and sits inside a max-width query,
+   so nothing above 720px is touched. */
+@media (max-width: 720px) {
+  .os-shape-lane {
+    grid-template-columns: 1fr auto !important;
+    grid-template-areas: 'label pct' 'strip strip';
+    gap: 0.3rem 0.6rem !important;
+    padding: 0.5rem 0 !important;
+  }
+  .os-shape-lane > .os-tag { grid-area: label; }
+  .os-shape-lane > .lane-wrap { grid-area: strip; }
+  .os-shape-lane > .os-course__num { grid-area: pct; display: block !important; }
+  .os-shape-lane .os-strip { display: grid !important; gap: 1px; }
+  .os-shape-lane .os-strip .lane-cell { height: 10px; }
+  .os-shape-total .os-course__num { display: block !important; }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .os-tile, .os-key { transition: none; }
 }
-
 /* ── the floor tile: four course bars inside one day ──────────────────────── */
 .os-tile--day {
   display: flex;

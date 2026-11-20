@@ -200,6 +200,7 @@ export function ShapeView() {
             {lanes.map((lane) => (
               <div
                 key={lane.dim}
+                className="os-shape-lane"
                 style={{
                   ...hueVars(lane.dim),
                   display: 'grid',
@@ -236,6 +237,7 @@ export function ShapeView() {
             {lanes.map((lane) => (
               <div
                 key={lane.dim}
+                className="os-shape-total"
                 style={{
                   display: 'grid',
                   gridTemplateColumns: '96px 1fr 92px',

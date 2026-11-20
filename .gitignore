@@ -52,3 +52,6 @@ next-env.d.ts
 
 # a real seed kept locally
 src/data/seed.local.json
+
+# written by Next 16 on the first dev/build, not part of the app
+AGENTS.md
