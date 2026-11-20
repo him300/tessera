@@ -1,0 +1,28 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "tessera",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-11-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "observability": {
+    "enabled": true
+  },
+
+  // The record. One database, two tables, no ORM.
+  //
+  // Created with `npx wrangler d1 create tessera-record` (region WEUR). The key that
+  // opens the record is a Worker secret (`npx wrangler secret put TESSERA_KEY`), never
+  // a value here.
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "tessera-record",
+      "database_id": "c6eb88c6-37d5-4989-ad2b-be3759b45221",
+      "migrations_dir": "migrations"
+    }
+  ]
+}

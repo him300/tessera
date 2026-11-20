@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Tessera">
+  <rect width="32" height="32" fill="#e7e2d4"/>
+  <rect x="3" y="3" width="13" height="13" fill="#9c6b18"/>
+  <rect x="16" y="3" width="13" height="13" fill="#5b54c6"/>
+  <rect x="3" y="16" width="13" height="13" fill="#2f7f5b"/>
+  <rect x="16" y="16" width="13" height="13" fill="#b6462a"/>
+</svg>

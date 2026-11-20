@@ -1,0 +1,4711 @@
+{
+ "learning": [
+  {
+   "at": "2026-04-15 18:30:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-04-16 19:05:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-04-17 10:30:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-04-18",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-04-19",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-04-20 15:05:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-04-21 17:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-04-22 17:41:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-04-24 13:41:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-04-25 07:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-04-26 22:41:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-04-27 18:30:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-04-28 06:55:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-04-29 09:17:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-04-30",
+   "time": "10mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-01",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-02 16:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-03 21:30:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-04 08:12:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-05",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-06",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-07 15:00:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-08 10:05:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-09 12:12:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-11 18:30:00",
+   "time": "30mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-12",
+   "time": "30mins",
+   "book": "(The Long Middle,37 to 59)"
+  },
+  {
+   "at": "2026-05-13 20:00:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-14",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-15",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-16 13:41:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-17 16:55:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-18",
+   "time": "1 hour",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-19 19:49:00",
+   "time": "1 hour",
+   "book": "(The Long Middle,22 to 28)"
+  },
+  {
+   "at": "2026-05-20 19:12:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-21 07:41:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-22",
+   "time": "1 hour",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-23",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-24 22:30:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-25",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-26 21:12:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-28 16:55:00",
+   "time": "1 hour",
+   "book": "(Slow Numbers,31 to 48)"
+  },
+  {
+   "at": "2026-05-29 09:12:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-30 15:55:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-05-31 16:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-01",
+   "time": "1 hour",
+   "book": "(Letters On Craft,39 to 63)"
+  },
+  {
+   "at": "2026-06-02 11:05:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-03",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-04 07:12:00",
+   "time": "10mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-05",
+   "time": "1 hour",
+   "book": "(The Long Middle,26 to 45)"
+  },
+  {
+   "at": "2026-06-06 16:05:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-07",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-08 21:41:00",
+   "time": "30mins",
+   "book": "(The Long Middle,8 to 30)"
+  },
+  {
+   "at": "2026-06-09 20:30:00",
+   "time": "10mins",
+   "book": "(Slow Numbers,25 to 30)"
+  },
+  {
+   "at": "2026-06-10 17:17:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-11 20:41:00",
+   "time": "30mins",
+   "book": "(Slow Numbers,6 to 14)"
+  },
+  {
+   "at": "2026-06-12",
+   "time": "30mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-14 15:12:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-15 15:12:00",
+   "time": "10mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-16",
+   "time": "10mins",
+   "book": "(The Quiet Machine,15 to 36)"
+  },
+  {
+   "at": "2026-06-17",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-18 21:05:00",
+   "time": "30mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-19 14:05:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-20",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-21 20:41:00",
+   "time": "30mins",
+   "book": "(Slow Numbers,26 to 39)"
+  },
+  {
+   "at": "2026-06-22 07:30:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-23 20:41:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-24 16:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-25 16:05:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-26 11:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-27 14:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-28 16:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-06-29",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-01 16:12:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-02",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-03 18:30:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-04",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-05 13:12:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-06 20:55:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-07 16:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-08 19:12:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-09 13:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-10 13:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-11 09:17:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-12 17:41:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-13 06:12:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-14 20:12:00",
+   "time": "1 hour",
+   "book": "(Slow Numbers,11 to 24)"
+  },
+  {
+   "at": "2026-07-15 11:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-16 12:00:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-18 11:12:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-19 11:17:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-20 09:55:00",
+   "time": "2 hours",
+   "book": "(The Practice Room,6 to 27)"
+  },
+  {
+   "at": "2026-07-21",
+   "time": "30mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-22",
+   "time": "30mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-23",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-24",
+   "time": "1 hour",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-25 20:17:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-26 21:17:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-27 11:41:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-28 19:12:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-29 19:00:00",
+   "time": "10mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-30 10:41:00",
+   "time": "1 hour",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-07-31 11:49:00",
+   "time": "1 hour",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-01 06:17:00",
+   "time": "2 hours",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-03",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-04 11:17:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-05 14:17:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-06 22:55:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-07",
+   "time": "30mins",
+   "book": "(A Field Guide To Habits,13 to 41)"
+  },
+  {
+   "at": "2026-08-08",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-09 13:00:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-10 18:17:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-11 13:30:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-12 14:00:00",
+   "time": "10mins",
+   "book": "(The Long Middle,32 to 46)"
+  },
+  {
+   "at": "2026-08-13",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-14 10:55:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-15 17:17:00",
+   "time": "1 hour",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-16 14:12:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-17 14:41:00",
+   "time": "1 hour",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-18 08:00:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-20 19:30:00",
+   "time": "2 hours",
+   "book": "(Notes On Small Systems,6 to 20)"
+  },
+  {
+   "at": "2026-08-21",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-22 06:12:00",
+   "time": "10mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-23",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-24 17:17:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-25 14:05:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-26",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-27 12:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-28 07:41:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-29 07:12:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-30 17:05:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-08-31 08:17:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-01 21:00:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-02",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-03 22:55:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-04 22:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-06 20:00:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-07 20:30:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-08 17:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-09 09:12:00",
+   "time": "30mins",
+   "book": "(A Field Guide To Habits,30 to 58)"
+  },
+  {
+   "at": "2026-09-10 16:49:00",
+   "time": "10mins",
+   "book": "(Notes On Small Systems,38 to 67)"
+  },
+  {
+   "at": "2026-09-11 21:30:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-12 17:17:00",
+   "time": "30mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-13 20:30:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-14 19:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-15 20:55:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-16 12:41:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-17 12:17:00",
+   "time": "30mins",
+   "book": "(A Field Guide To Habits,14 to 28)"
+  },
+  {
+   "at": "2026-09-18 10:17:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-19 06:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-20 21:00:00",
+   "time": "30mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-21 08:41:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-23 10:05:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-24 15:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-25 11:55:00",
+   "time": "10mins",
+   "book": "(Slow Numbers,30 to 53)"
+  },
+  {
+   "at": "2026-09-26 15:00:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-27 13:12:00",
+   "time": "30mins",
+   "book": "(The Practice Room,33 to 53)"
+  },
+  {
+   "at": "2026-09-28 17:30:00",
+   "time": "10mins",
+   "book": "(A Field Guide To Habits,8 to 30)"
+  },
+  {
+   "at": "2026-09-29 13:05:00",
+   "time": "10mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-09-30 06:55:00",
+   "time": "1 hour",
+   "book": "(Letters On Craft,39 to 58)"
+  },
+  {
+   "at": "2026-10-01 09:05:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-02 07:17:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-03 16:30:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-04 06:12:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-05",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-06 16:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-07 20:41:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-08 15:05:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-10 17:05:00",
+   "time": "30mins",
+   "book": "(Notes On Small Systems,12 to 20)"
+  },
+  {
+   "at": "2026-10-11 20:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-12",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-13 22:55:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-14",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-15 14:12:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-16 19:49:00",
+   "time": "10mins",
+   "book": "(The Quiet Machine,25 to 54)"
+  },
+  {
+   "at": "2026-10-17 17:00:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-18 22:41:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-19 18:55:00",
+   "time": "30mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-20",
+   "time": "30mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-21 08:30:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-22",
+   "time": "30mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-23 21:17:00",
+   "time": "30mins",
+   "book": "(Slow Numbers,6 to 19)"
+  },
+  {
+   "at": "2026-10-24 22:05:00",
+   "time": "10mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-25 12:05:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-27 11:00:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-28 21:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-29 14:00:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-30 22:00:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-10-31",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-11-01 14:05:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-11-02",
+   "time": "10mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-11-03 10:55:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-11-04 08:00:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-11-05 14:49:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-11-06 07:30:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-11-07 19:05:00",
+   "time": "1 hour",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-11-08 22:41:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-11-09 18:17:00",
+   "time": "30mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-11-10 13:30:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-11-11 12:12:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-11-13 13:41:00",
+   "time": "1 hour",
+   "book": "(Letters On Craft,35 to 57)"
+  },
+  {
+   "at": "2026-11-14",
+   "time": "30mins",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-11-15 17:55:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-11-16 13:41:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-11-17 07:00:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-11-18",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-11-19 19:17:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  },
+  {
+   "at": "2026-11-20 16:30:00",
+   "time": "Nothing",
+   "book": "(nothing, nothing)"
+  }
+ ],
+ "mind": [
+  {
+   "at": "2026-08-13 17:00:00",
+   "time": "10mins",
+   "style": "Loving Kindness"
+  },
+  {
+   "at": "2026-08-14 10:17:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-08-15 07:00:00",
+   "time": "15mins",
+   "style": "Focused Attention"
+  },
+  {
+   "at": "2026-08-17 10:17:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-08-18 19:12:00",
+   "time": "15mins",
+   "style": "Body Scan"
+  },
+  {
+   "at": "2026-08-19 07:00:00",
+   "time": "15mins",
+   "style": "Open Monitoring"
+  },
+  {
+   "at": "2026-08-20 17:30:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-08-21 06:49:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-08-22 14:55:00",
+   "time": "10mins",
+   "style": "Loving Kindness"
+  },
+  {
+   "at": "2026-08-24 11:17:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-08-25 16:00:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-08-26 16:49:00",
+   "time": "15mins",
+   "style": "Focused Attention"
+  },
+  {
+   "at": "2026-08-27 07:49:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-08-28 15:00:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-08-29 12:55:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-08-31 08:17:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-09-01 21:17:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-09-02 22:12:00",
+   "time": "15mins",
+   "style": "Loving Kindness"
+  },
+  {
+   "at": "2026-09-03 15:55:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-09-04 21:12:00",
+   "time": "15mins",
+   "style": "Loving Kindness"
+  },
+  {
+   "at": "2026-09-06 13:55:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-09-07 08:30:00",
+   "time": "15mins",
+   "style": "Open Monitoring"
+  },
+  {
+   "at": "2026-09-08 07:00:00",
+   "time": "15mins",
+   "style": "Loving Kindness"
+  },
+  {
+   "at": "2026-09-09 10:00:00",
+   "time": "15mins",
+   "style": "Loving Kindness"
+  },
+  {
+   "at": "2026-09-10 06:00:00",
+   "time": "10mins",
+   "style": "Open Monitoring"
+  },
+  {
+   "at": "2026-09-11 12:00:00",
+   "time": "15mins",
+   "style": "Body Scan"
+  },
+  {
+   "at": "2026-09-13 22:17:00",
+   "time": "15mins",
+   "style": "Body Scan"
+  },
+  {
+   "at": "2026-09-14 07:49:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-09-15 22:05:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-09-16 22:12:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-09-17 09:05:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-09-19 18:41:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-09-20 16:05:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-09-21 22:17:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-09-22 21:30:00",
+   "time": "15mins",
+   "style": "Open Monitoring"
+  },
+  {
+   "at": "2026-09-23 13:00:00",
+   "time": "15mins",
+   "style": "Focused Attention"
+  },
+  {
+   "at": "2026-09-24 09:30:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-09-26 07:49:00",
+   "time": "15mins",
+   "style": "Body Scan"
+  },
+  {
+   "at": "2026-09-27 19:30:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-09-28 19:17:00",
+   "time": "15mins",
+   "style": "Focused Attention"
+  },
+  {
+   "at": "2026-09-29 14:49:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-09-30 08:41:00",
+   "time": "10mins",
+   "style": "Loving Kindness"
+  },
+  {
+   "at": "2026-10-02 14:12:00",
+   "time": "10mins",
+   "style": "Loving Kindness"
+  },
+  {
+   "at": "2026-10-03 21:17:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-10-04 19:49:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-10-05 12:49:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-10-06 16:12:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-10-07 08:55:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-10-09 10:05:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-10-10 15:17:00",
+   "time": "10mins",
+   "style": "Loving Kindness"
+  },
+  {
+   "at": "2026-10-11 16:49:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-10-12 20:49:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-10-13 08:49:00",
+   "time": "15mins",
+   "style": "Body Scan"
+  },
+  {
+   "at": "2026-10-14 20:30:00",
+   "time": "15mins",
+   "style": "Body Scan"
+  },
+  {
+   "at": "2026-10-16 17:55:00",
+   "time": "15mins",
+   "style": "Loving Kindness"
+  },
+  {
+   "at": "2026-10-17 16:00:00",
+   "time": "15mins",
+   "style": "Body Scan"
+  },
+  {
+   "at": "2026-10-18 11:55:00",
+   "time": "15mins",
+   "style": "Focused Attention"
+  },
+  {
+   "at": "2026-10-19 08:49:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-10-20 13:12:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-10-22 15:55:00",
+   "time": "15mins",
+   "style": "Open Monitoring"
+  },
+  {
+   "at": "2026-10-23 12:00:00",
+   "time": "15mins",
+   "style": "Open Monitoring"
+  },
+  {
+   "at": "2026-10-24 09:17:00",
+   "time": "15mins",
+   "style": "Open Monitoring"
+  },
+  {
+   "at": "2026-10-25 06:41:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-10-26 11:55:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-10-27 17:41:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-10-29 21:41:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-10-30 14:00:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-10-31 12:30:00",
+   "time": "15mins",
+   "style": "Open Monitoring"
+  },
+  {
+   "at": "2026-11-01 06:49:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-11-02 17:49:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-11-03 08:30:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-11-05 09:30:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-11-06 06:00:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-11-07 15:49:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-11-08 14:00:00",
+   "time": "15mins",
+   "style": "Focused Attention"
+  },
+  {
+   "at": "2026-11-09 06:12:00",
+   "time": "15mins",
+   "style": "Focused Attention"
+  },
+  {
+   "at": "2026-11-11 12:05:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-11-12 10:00:00",
+   "time": "15mins",
+   "style": "Open Monitoring"
+  },
+  {
+   "at": "2026-11-13 22:49:00",
+   "time": "15mins",
+   "style": "Focused Attention"
+  },
+  {
+   "at": "2026-11-14 06:55:00",
+   "time": "15mins",
+   "style": "Body Scan"
+  },
+  {
+   "at": "2026-11-15 19:17:00",
+   "time": "15mins",
+   "style": "Body Scan"
+  },
+  {
+   "at": "2026-11-16 09:55:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-11-18 10:41:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-11-19 20:00:00",
+   "time": "Nothing",
+   "style": "None"
+  },
+  {
+   "at": "2026-11-20 11:55:00",
+   "time": "Nothing",
+   "style": "None"
+  }
+ ],
+ "body": [
+  {
+   "serial": 46127.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46128.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46129.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46130.5,
+   "time": "30mins",
+   "exercise": "Squats",
+   "reps": "300",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46131.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46132.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46133.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46134.82083333333,
+   "time": "1 hour",
+   "exercise": "Plank",
+   "reps": "40",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46135.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46136.75,
+   "time": "10mins",
+   "exercise": "Push Ups",
+   "reps": "100",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46137.5,
+   "time": "1 hour",
+   "exercise": "Squats",
+   "reps": "500",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46138.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46139.82083333333,
+   "time": "10mins",
+   "exercise": "Burpees",
+   "reps": "120",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46140.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46141.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46142.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46143.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46144.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46145.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46146.5,
+   "time": "1 hour",
+   "exercise": "Burpees",
+   "reps": "50",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46147.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46148.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46149.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46150.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46151.5,
+   "time": "2 hours",
+   "exercise": "Pull Ups",
+   "reps": "120",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46152.82083333333,
+   "time": "1 hour",
+   "exercise": "Burpees",
+   "reps": "40",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46153.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46154.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46155.0,
+   "time": "1 hour",
+   "exercise": "Pull Ups",
+   "reps": "120",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46156.5,
+   "time": "1 hour",
+   "exercise": "Walking",
+   "reps": "40",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46157.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46158.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46159.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46160.75,
+   "time": "30mins",
+   "exercise": "Push Ups",
+   "reps": "300",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46161.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46162.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46163.82083333333,
+   "time": "2 hours",
+   "exercise": "Squats",
+   "reps": "20",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46165.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46166.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46167.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46168.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46169.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46170.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46171.0,
+   "time": "10mins",
+   "exercise": "Plank",
+   "reps": "100",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46172.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46173.5,
+   "time": "10mins",
+   "exercise": "Cycle",
+   "reps": "120",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46174.5,
+   "time": "30mins",
+   "exercise": "Walking",
+   "reps": "120",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46175.82083333333,
+   "time": "10mins",
+   "exercise": "Squats",
+   "reps": "300",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46176.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46177.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46178.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46179.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46180.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46181.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46182.5,
+   "time": "1 hour",
+   "exercise": "Burpees",
+   "reps": "500",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46183.82083333333,
+   "time": "30mins",
+   "exercise": "Squats",
+   "reps": "200",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46184.0,
+   "time": "30mins",
+   "exercise": "Squats",
+   "reps": "300",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46185.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46186.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46187.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46188.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46189.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46190.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46191.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46192.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46193.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46194.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46195.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46196.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46197.82083333333,
+   "time": "30mins",
+   "exercise": "Cycle",
+   "reps": "120",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46198.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46199.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46200.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46201.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46202.82083333333,
+   "time": "10mins",
+   "exercise": "Plank",
+   "reps": "100",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46203.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46204.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46205.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46206.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46207.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46208.0,
+   "time": "30mins",
+   "exercise": "Walking",
+   "reps": "300",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46209.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46210.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46211.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46212.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46213.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46214.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46215.75,
+   "time": "10mins",
+   "exercise": "Plank",
+   "reps": "300",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46216.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46217.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46218.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46219.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46220.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46221.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46222.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46223.82083333333,
+   "time": "30mins",
+   "exercise": "Push Ups",
+   "reps": "40",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46224.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46225.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46226.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46227.5,
+   "time": "2 hours",
+   "exercise": "Squats",
+   "reps": "100",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46228.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46229.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46230.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46231.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46232.5,
+   "time": "10mins",
+   "exercise": "Cycle",
+   "reps": "200",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46233.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46234.75,
+   "time": "1 hour",
+   "exercise": "Burpees",
+   "reps": "300",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46235.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46237.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46238.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46239.75,
+   "time": "1 hour",
+   "exercise": "Pull Ups",
+   "reps": "300",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46240.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46241.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46242.5,
+   "time": "2 hours",
+   "exercise": "Push Ups",
+   "reps": "20",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46243.82083333333,
+   "time": "1 hour",
+   "exercise": "Pull Ups",
+   "reps": "500",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46244.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46245.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46246.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46247.75,
+   "time": "30mins",
+   "exercise": "Plank",
+   "reps": "300",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46248.75,
+   "time": "1 hour",
+   "exercise": "Cycle",
+   "reps": "100",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46249.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46250.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46251.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46252.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46253.0,
+   "time": "10mins",
+   "exercise": "Squats",
+   "reps": "100",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46254.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46255.5,
+   "time": "1 hour",
+   "exercise": "Pull Ups",
+   "reps": "40",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46256.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46257.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46258.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46259.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46260.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46261.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46262.5,
+   "time": "30mins",
+   "exercise": "Plank",
+   "reps": "120",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46263.82083333333,
+   "time": "10mins",
+   "exercise": "Push Ups",
+   "reps": "40",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46264.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46265.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46266.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46267.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46268.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46269.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46270.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46271.82083333333,
+   "time": "2 hours",
+   "exercise": "Plank",
+   "reps": "40",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46272.82083333333,
+   "time": "2 hours",
+   "exercise": "Cycle",
+   "reps": "100",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46273.82083333333,
+   "time": "30mins",
+   "exercise": "Plank",
+   "reps": "20",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46274.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46275.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46276.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46277.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46278.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46279.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46280.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46281.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46282.82083333333,
+   "time": "10mins",
+   "exercise": "Squats",
+   "reps": "50",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46283.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46284.0,
+   "time": "1 hour",
+   "exercise": "Squats",
+   "reps": "200",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46285.0,
+   "time": "30mins",
+   "exercise": "Burpees",
+   "reps": "40",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46286.0,
+   "time": "30mins",
+   "exercise": "Plank",
+   "reps": "120",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46287.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46288.75,
+   "time": "10mins",
+   "exercise": "Walking",
+   "reps": "20",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46289.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46290.82083333333,
+   "time": "30mins",
+   "exercise": "Cycle",
+   "reps": "40",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46291.82083333333,
+   "time": "30mins",
+   "exercise": "Walking",
+   "reps": "20",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46292.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46293.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46294.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46295.0,
+   "time": "2 hours",
+   "exercise": "Burpees",
+   "reps": "40",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46296.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46297.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46298.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46299.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46300.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46301.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46302.75,
+   "time": "30mins",
+   "exercise": "Walking",
+   "reps": "300",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46303.0,
+   "time": "30mins",
+   "exercise": "Plank",
+   "reps": "120",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46304.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46305.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46306.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46307.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46308.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46309.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46311.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46312.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46313.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46314.5,
+   "time": "30mins",
+   "exercise": "Pull Ups",
+   "reps": "20",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46315.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46316.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46317.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46318.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46319.82083333333,
+   "time": "2 hours",
+   "exercise": "Plank",
+   "reps": "120",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46320.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46321.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46322.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46323.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46324.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46325.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46326.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46327.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46328.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46329.82083333333,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46330.5,
+   "time": "1 hour",
+   "exercise": "Cycle",
+   "reps": "40",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46331.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46332.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46333.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46334.5,
+   "time": "10mins",
+   "exercise": "Walking",
+   "reps": "500",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46335.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46336.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46337.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46338.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46339.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46340.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46341.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46342.82083333333,
+   "time": "1 hour",
+   "exercise": "Cycle",
+   "reps": "100",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46343.0,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46344.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46345.5,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  },
+  {
+   "serial": 46346.75,
+   "time": "Nothing",
+   "exercise": "None",
+   "reps": "NaN",
+   "subGoal": "Build A Steady Practice",
+   "state": "0"
+  }
+ ],
+ "success": [
+  {
+   "at": 46127,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46128,
+   "time": "30mins",
+   "action": "Draft A Page",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46129,
+   "time": "2 hours",
+   "action": "Plan The Week",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46130,
+   "time": "10mins",
+   "action": "Publish A Post",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46131,
+   "time": "1 hour",
+   "action": "Publish A Post",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46132,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46133,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46134,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46135,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46136,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46137,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46138,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46139,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46140,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46141,
+   "time": "10mins",
+   "action": "Draft A Page",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46142,
+   "time": "30mins",
+   "action": "Review Notes",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46143,
+   "time": "1 hour",
+   "action": "Publish A Post",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46144,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46145,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46146,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46147,
+   "time": "30mins",
+   "action": "Plan The Week",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46148,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46150,
+   "time": "30mins",
+   "action": "Ship A Fix",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46151,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46152,
+   "time": "10mins",
+   "action": "Review Notes",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46153,
+   "time": "10mins",
+   "action": "Publish A Post",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46154,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46155,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46156,
+   "time": "1 hour",
+   "action": "Publish A Post",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46157,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46158,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46159,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46160,
+   "time": "30mins",
+   "action": "Draft A Page",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46161,
+   "time": "10mins",
+   "action": "Ship A Fix",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46162,
+   "time": "10mins",
+   "action": "Draft A Page",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46163,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46164,
+   "time": "30mins",
+   "action": "Publish A Post",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46165,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46166,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46167,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46168,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46169,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46170,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46171,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46172,
+   "time": "10mins",
+   "action": "Review Notes",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46173,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46174,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46175,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46176,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46177,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46178,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46179,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46180,
+   "time": "2 hours",
+   "action": "Review Notes",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46181,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46182,
+   "time": "10mins",
+   "action": "Review Notes",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46183,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46184,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46185,
+   "time": "2 hours",
+   "action": "Review Notes",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46186,
+   "time": "1 hour",
+   "action": "Publish A Post",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46187,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46188,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46189,
+   "time": "30mins",
+   "action": "Draft A Page",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46190,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46191,
+   "time": "30mins",
+   "action": "Draft A Page",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46192,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46194,
+   "time": "10mins",
+   "action": "Draft A Page",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46195,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46196,
+   "time": "2 hours",
+   "action": "Ship A Fix",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46197,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46198,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46199,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46200,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46201,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46202,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46203,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46204,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46205,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46206,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46207,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46208,
+   "time": "1 hour",
+   "action": "Plan The Week",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46209,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46210,
+   "time": "30mins",
+   "action": "Publish A Post",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46211,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46212,
+   "time": "1 hour",
+   "action": "Draft A Page",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46213,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46214,
+   "time": "1 hour",
+   "action": "Draft A Page",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46215,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46216,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46217,
+   "time": "30mins",
+   "action": "Ship A Fix",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46218,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46219,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46220,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46221,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46222,
+   "time": "30mins",
+   "action": "Review Notes",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46223,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46224,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46225,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46226,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46227,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46228,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46229,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46230,
+   "time": "30mins",
+   "action": "Draft A Page",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46231,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46232,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46233,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46234,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46235,
+   "time": "1 hour",
+   "action": "Publish A Post",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46237,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46238,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46239,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46240,
+   "time": "10mins",
+   "action": "Draft A Page",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46241,
+   "time": "30mins",
+   "action": "Publish A Post",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46242,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46243,
+   "time": "10mins",
+   "action": "Plan The Week",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46244,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46245,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46246,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46247,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46248,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46249,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46250,
+   "time": "30mins",
+   "action": "Plan The Week",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46251,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46252,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46253,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46254,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46255,
+   "time": "10mins",
+   "action": "Ship A Fix",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46256,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46257,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46258,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46259,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46260,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46261,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46262,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46263,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46264,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46265,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46266,
+   "time": "30mins",
+   "action": "Plan The Week",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46267,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46268,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46269,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46270,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46271,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46272,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46273,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46274,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46275,
+   "time": "30mins",
+   "action": "Ship A Fix",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46276,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46277,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46278,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46279,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46281,
+   "time": "1 hour",
+   "action": "Plan The Week",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46282,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46283,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46284,
+   "time": "10mins",
+   "action": "Review Notes",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46285,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46286,
+   "time": "30mins",
+   "action": "Ship A Fix",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46287,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46288,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46289,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46290,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46291,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46292,
+   "time": "10mins",
+   "action": "Publish A Post",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46293,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46294,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46295,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46296,
+   "time": "2 hours",
+   "action": "Publish A Post",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46297,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46298,
+   "time": "10mins",
+   "action": "Draft A Page",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46299,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46300,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46301,
+   "time": "30mins",
+   "action": "Draft A Page",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46302,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46303,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46304,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46305,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46306,
+   "time": "10mins",
+   "action": "Publish A Post",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46307,
+   "time": "10mins",
+   "action": "Publish A Post",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46308,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46309,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46310,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46311,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46312,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46313,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46314,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46315,
+   "time": "30mins",
+   "action": "Plan The Week",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46316,
+   "time": "30mins",
+   "action": "Plan The Week",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46317,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46318,
+   "time": "30mins",
+   "action": "Publish A Post",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46319,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46320,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46321,
+   "time": "30mins",
+   "action": "Draft A Page",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46322,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46323,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46325,
+   "time": "30mins",
+   "action": "Plan The Week",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46326,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46327,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46328,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46329,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46330,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46331,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46332,
+   "time": "10mins",
+   "action": "Publish A Post",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46333,
+   "time": "10mins",
+   "action": "Review Notes",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46334,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46335,
+   "time": "10mins",
+   "action": "Draft A Page",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46336,
+   "time": "10mins",
+   "action": "Publish A Post",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46337,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46338,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46339,
+   "time": "10mins",
+   "action": "Review Notes",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46340,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46341,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46342,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46343,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46344,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46345,
+   "time": "30mins",
+   "action": "Plan The Week",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  },
+  {
+   "at": 46346,
+   "time": "Nothing",
+   "action": "Nothing",
+   "subGoal": "Ship One Small Thing Each Week",
+   "state": "0"
+  }
+ ]
+}
