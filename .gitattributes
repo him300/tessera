@@ -1,0 +1,13 @@
+* text=auto eol=lf
+
+# binaries — never diff, never dilate
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.woff2 binary
+*.ico binary
+
+# generated — keep out of the language bar
+package-lock.json linguist-generated=true
+docs/screens/** linguist-documentation
